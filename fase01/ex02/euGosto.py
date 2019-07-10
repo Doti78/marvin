@@ -1,6 +1,3 @@
-def euGosto(burguer):
-    return ("Eu gosto de "+burguer)
-    
-print(euGosto("hamburguer"))
-    
-    
+def euGosto(food):
+    return ("Eu gosto de "+food)
+
